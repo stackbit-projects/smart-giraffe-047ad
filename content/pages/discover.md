@@ -11,7 +11,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: hello
     testimonials: []
     type: testimonials_section
 seo:
