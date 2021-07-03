@@ -28,6 +28,12 @@ sections:
           name: lorem-ipsum
           location: lorem-ipsum
     type: testimonials_section
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    light_title: false
+    icon: false
+    featured_products: []
+    type: featured_products_section
 seo:
   title: ''
   description: ''
