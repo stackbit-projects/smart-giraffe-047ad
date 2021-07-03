@@ -8,7 +8,12 @@ sections:
     content: |+
       hello
 
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
     background_image: images/header.jpg
   - section_id: lorem-ipsum
