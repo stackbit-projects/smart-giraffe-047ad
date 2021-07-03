@@ -10,6 +10,7 @@ sections:
 
     actions: []
     type: hero_section
+    background_image: images/header.jpg
   - section_id: lorem-ipsum
     title: hello
     testimonials:
