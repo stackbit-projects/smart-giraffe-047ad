@@ -12,7 +12,11 @@ sections:
     type: hero_section
   - section_id: lorem-ipsum
     title: hello
-    testimonials: []
+    testimonials:
+      - text: lorem-ipsum
+        author:
+          name: lorem-ipsum
+          location: lorem-ipsum
     type: testimonials_section
 seo:
   title: ''
