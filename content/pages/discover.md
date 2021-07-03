@@ -17,6 +17,10 @@ sections:
         author:
           name: lorem-ipsum
           location: lorem-ipsum
+      - text: lorem-ipsum
+        author:
+          name: lorem-ipsum
+          location: lorem-ipsum
     type: testimonials_section
 seo:
   title: ''
