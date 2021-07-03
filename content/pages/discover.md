@@ -13,7 +13,7 @@ sections:
   - section_id: lorem-ipsum
     title: hello
     testimonials:
-      - text: lorem-ipsum
+      - text: hello
         author:
           name: lorem-ipsum
           location: lorem-ipsum
