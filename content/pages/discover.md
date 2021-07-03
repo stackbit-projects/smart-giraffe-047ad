@@ -32,7 +32,8 @@ sections:
     section_id: lorem-ipsum
     light_title: false
     icon: false
-    featured_products: []
+    featured_products:
+      - content/pages/products/plant1.md
     type: featured_products_section
 seo:
   title: ''
