@@ -17,7 +17,7 @@ sections:
         author:
           name: lorem-ipsum
           location: lorem-ipsum
-      - text: lorem-ipsum
+      - text: hello 2
         author:
           name: lorem-ipsum
           location: lorem-ipsum
